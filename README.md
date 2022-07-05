@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm *Diego Neves*, I am `Specialist` in `Networks Computer`, `Bachelor` in `Information Systems` and I have used and worked with `Linux` since 2007.
-For more than 15 years I have been working with `IT` in companies in `Brazil` and `Paraguay`, and managed a datacenter with more than 300 hosts.
+For more than 15 years I have been working with `IT` in companies from `Brazil`, `Paraguay`, `USA` and `Ukraine`, and managed a datacenter with more than 300 hosts.
 I have used `Docker`, `Ansible` and `Terraform` in my projects, and I also have skills with `automation of tasks and settings`, `AWS`, `Security` and `Monitoring`.
 I'm always studying about `Kubernetes`, `Terraform`, `Vault` and all `Hashicorp Stack`.
 
